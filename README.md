@@ -1,4 +1,4 @@
-# 🔍💡🧙‍♂️ Data Analyst & Engineer 🧙‍♂️💡🛠️
+# 🔍💡🧙‍♂️ Data Developer 🧙‍♂️💡🛠️
 
 Passionate about leveraging the full potential of raw data, I am driven by the pursuit of professional opportunities in the field of data engineering/analysis. With a strategic mindset and an unyielding commitment to learning, I am primed to make impactful contributions to innovative projects within dynamic environments.
 
