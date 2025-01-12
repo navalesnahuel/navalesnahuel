@@ -4,7 +4,7 @@
 - 👀 I’m passionate about solving problems through **Backend Development** and **Data Engineering**.
 - 🌱 Currently, I’m diving deep into **advanced Data Pipelines** and focused on mastering **Backend Development**.
 - 📫 You can reach me at: navalesnahuel@gmail.com
-- 🌐 Take a look at my [Portfolio](https://navalesnahuel.github.io)
+- 🌐 Take a look to my [Portfolio](https://navalesnahuel.github.io)
 - 💻  Connect with me on [LinkedIn](https://www.linkedin.com/in/navalesnahuel/)
 
 ### Favorite Tech
