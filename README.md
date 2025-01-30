@@ -22,6 +22,7 @@
 </div>
 
 
+### Stats
 | GitHub                                                                                                                                             | LeetCode                                                                                                 |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| ![Nahuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=navalesnahuel&show_icons=true&theme=black&hide_border=true) | ![Nahuel's Leetcode stats](https://leetcode-badge-sage.vercel.app/badge/navalesnahuel?theme=dark&bgColor={hex_val}) |
+| ![Nahuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=navalesnahuel&show_icons=true&theme=transparent&hide_border=true) | ![Nahuel's Leetcode stats](https://leetcode-badge-sage.vercel.app/badge/navalesnahuel?theme=dark&bgColor={hex_val}) |
