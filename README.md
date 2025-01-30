@@ -21,3 +21,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
 </div>
 
+![Leetcode](https://leetcode-badge-sage.vercel.app/badge/navalesnahuel?theme=dark&bgColor={hex_val})
