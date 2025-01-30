@@ -21,4 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
 </div>
 
-![Leetcode](https://leetcode-badge-sage.vercel.app/badge/navalesnahuel?theme=dark&bgColor={hex_val})
+
+| GitHub                                                                                                                                             | LeetCode                                                                                                 |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| ![Nahuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=navalesnahuel&show_icons=true&theme=black&hide_border=true) | ![Nahuel's Leetcode stats](![Leetcode](https://leetcode-badge-sage.vercel.app/badge/navalesnahuel?theme=dark&bgColor={hex_val}) |
