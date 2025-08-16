@@ -1,13 +1,9 @@
-<h1 align="left" id="macropower-title">👋 Hello there! I'm Nahuel</h1>
+# Nahuel
+> “The best way to predict the future is to implement it.” — DHH
+APIs, data pipelines, scripting, and scalable architectures.
 
-### Backend & Data Developer
-- 👀 I’m passionate about solving problems through **Backend Development** and **Data Engineering**.
-- 🌱 Currently, I’m diving deep into **advanced Data Pipelines** and focused on mastering **Backend Development**.
-- 📫 You can reach me at: navalesnahuel@gmail.com
-- 🌐 Take a look to my [Portfolio](https://navalesnahuel.github.io)
-- 💻  Connect with me on [LinkedIn](https://www.linkedin.com/in/navalesnahuel/)
-
-### Stats
-| GitHub                                                                                                                                             | LeetCode                                                                                                 |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| ![Nahuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=navalesnahuel&show_icons=true&theme=transparent&hide_border=true) | ![Nahuel's Leetcode stats](https://leetcard.jacoblin.cool/navalesnahuel?theme=transparent) |
+## Links
+- Portfolio: [navalesnahuel.github.io](https://navalesnahuel.github.io)
+- GitHub: [github.com/navalesnahuel](https://github.com/navalesnahuel)
+- Email: [navalesnahuel@gmail.com](mailto:navalesnahuel@gmail.com)
+- LinkedIn: [linkedin.com/in/navalesnahuel](https://www.linkedin.com/in/navalesnahuel/)
