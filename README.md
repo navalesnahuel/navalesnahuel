@@ -1,5 +1,6 @@
 # Nahuel
 > “The best way to predict the future is to implement it.” — DHH
+
 APIs, data pipelines, scripting, and scalable architectures.
 
 ## Links
